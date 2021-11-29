@@ -8,7 +8,7 @@ Before
 * I've worked on backend for online classified [Youla](https://youla.ru)
 
 
-You can find my toy reps with go  code [biling](https://github.com/amigoml/user_account_keeper_go_service) or [catboost_inference](https://github.com/amigoml/catboost_go_service)
+You can find my toy reps with go  code [billing](https://github.com/amigoml/user_account_keeper_go_service) or [catboost_inference](https://github.com/amigoml/catboost_go_service)
 
 
 <!--
